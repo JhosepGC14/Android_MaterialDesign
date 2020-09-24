@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Schnauzer Dog",
+    "url": "https://wakyma.com/blog/wp-content/uploads/2016/12/perros-de-raza-schnauzer.jpg",
+    "price": "Lorem Ipsum doloren loro"
+  },
+  {
+    "title": "Australian Silky Terrier",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-australian-silky-terrier-1.jpg",
+    "price": "Lorem Ipsum doloren loro"
+  },
+  {
+    "title": "Bichón Frisé",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-bichon-frise-1.jpg",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Bichón Maltés",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-bichon-maltes-1.jpg",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Boston Terrier",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-boston-terrier-2.png",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Chihuahua",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-chihuahua-2.jpg",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Dachshund",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-dachshund-2.jpg",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Shih Tzu",
+    "url": "https://frenchiemania.com/wp-content/uploads/2014/10/razas-de-perros-pequenos-shih-tzu-1.jpg",
+    "price": "Quererte sin condiciones"
+  },
+
+  {
+    "title": "Gatos",
+    "url": "https://cf.ltkcdn.net/gatos/images/std/236641-699x450-etapas-desarrollo-gatitos.jpg",
+    "price": "Compañero de vida"
+  },
+  {
+    "title": "Perros",
+    "url": "https://estag.fimagenes.com/img/2/2/p/n/2pn_900.jpg",
+    "price": "Quererte sin condiciones"
+  },
+  {
+    "title": "Pajaros",
+    "url": "https://thumbs.dreamstime.com/b/periquito-azul-undulatus-del-melopsittacus-37878359.jpg",
+    "price": ""
+  },
+  {
+    "title": "Pezes",
+    "url": "https://www.ciudaris.com/blog/wp-content/uploads/departamento-nuevo-ciudaris-peces-mascotas3.jpg",
+    "price": "Buenos para nadar"
+  },
+  {
+    "title": "Gatitos",
+    "url": "https://www.ecestaticos.com/image/clipping/9a51b5a3f4ea08e4eac259c70aae80b9/los-perros-y-los-gatos-suenan-como-nosotros-esto-es-lo-que-dice-la-ciencia.jpg",
+    "price": "Buenas compañias"
+  },
+  {
+    "title": "Conejos",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwIJFr67KKPwV1zMFx1PkrdZHd09uBsd_Cgg&usqp=CAU",
+    "price": ""
+  }
+]
